@@ -6,6 +6,6 @@ MC各论坛资料备份
 
   在MCBBS倒塌之后，越来越多的人们意识到了数据的全样保存。RATE Foundation于一年后启动了MC论坛备份计划，鼓励将mcbbs内和mc其他论坛的文件资料备份及保存于此。
 
-  让我们一起<b>守护MC中文社区<b>。
+  让我们一起<b>守护MC中文社区</b>。
 
 注：MCBBSRIP:https://mcbbs.rip/ (统计目前存在的MC社区)
